@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @XXLMandalorian013
-- 👀 I’m interested in PowerShell
-- 🌱 I’m currently learning PowerShell and CompTIA A+
--  I work in a domain enviroment so most of my script are tailored to that.
+- 👀 I’m interested in Automation and System Administration
+- 🌱 I’m currently learning PowerShell
+-  I work in a domain enviroment so most of my script are tailored that way
 - 📫 You can reach me at d.mcclellan013@gmail.com
