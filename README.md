@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @XXLMandalorian013
-- 👀 I’m interested in Automation and System Administration
-- 🌱 I’m currently learning PowerShell
--  I work in a domain enviroment so most of my script are tailored that way
+- 👀 I’m interested in Automation, PowerShell, and System Administration
+- 🌱 I’m currently learning Linux
 - 📫 You can reach me at d.mcclellan013@gmail.com
