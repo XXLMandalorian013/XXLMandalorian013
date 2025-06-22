@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @XXLMandalorian013 Self-driven System Administrator who thoroughly enjoys documentation and creating SOPs for every project deployment, an affinity for automation, continuous learning and an ever-growing home lab.
-- 👀 I’m interested in Automation, PowerShell, and System Administration
-- 🌱 I’m currently learning Linux
+- 🌱 I’m currently learning Linux.
 - 📫 You can reach me at d.mcclellan013@gmail.com
