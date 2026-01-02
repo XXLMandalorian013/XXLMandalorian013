@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @XXLMandalorian013 Self-motivated System Administrator with over 5 years of experience. Where possible, I try to automate the manual task or create SOP documentation to expedite project deployments. Enjoy continuous learning and talking shop over home labs. 
+- 👋 Hi, I’m @XXLMandalorian013! I'm a Self-driven System Administrator with a passion for documentation and SOP creation, a strong affinity for automation, continuous learning, and hands-on experimentation in a growing home lab. 
 - 🌱 I’m currently learning Linux, K8s, and Python.
 - 📫 You can reach me at d.mcclellan013@gmail.com
