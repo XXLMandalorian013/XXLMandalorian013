@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @XXLMandalorian013! I'm a Self-driven System Administrator with a passion for documentation and SOP creation, a strong affinity for automation, continuous learning, and hands-on experimentation in a growing home lab. 
+- 👋 Hi, I’m @XXLMandalorian013!
+- Self-driven System Administrator | Automate all the clicks and key strokes | Documentation | ∞ continuous learning | Home lab
 - 🌱 I’m currently learning Linux, K8s, and Python.
 - 📫 You can reach me at d.mcclellan013@gmail.com
